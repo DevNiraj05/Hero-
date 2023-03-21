@@ -1,2 +1,2 @@
-# Hero-
+# Hero
 A Hero Component
